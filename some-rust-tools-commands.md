@@ -10,6 +10,10 @@ verificar a versão:
    
 ## rustup
 
+documentação local:
+
+> **rustup** doc
+
 atualizar versao do rust:
     
 > **rustup** update
