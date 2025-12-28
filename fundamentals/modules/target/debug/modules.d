@@ -1,0 +1,1 @@
+/home/ssr0x7c9/Documents/Rust/fundamentals/modules/target/debug/modules: /home/ssr0x7c9/Documents/Rust/fundamentals/modules/src/domain/mod.rs /home/ssr0x7c9/Documents/Rust/fundamentals/modules/src/domain/usuario.rs /home/ssr0x7c9/Documents/Rust/fundamentals/modules/src/main.rs
