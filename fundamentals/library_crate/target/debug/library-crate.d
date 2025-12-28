@@ -1,1 +1,0 @@
-/home/ssr0x7c9/Documents/Rust/fundamentals/library_crate/target/debug/library-crate: /home/ssr0x7c9/Documents/Rust/fundamentals/library_crate/src/lib.rs /home/ssr0x7c9/Documents/Rust/fundamentals/library_crate/src/main.rs

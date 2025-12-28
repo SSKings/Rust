@@ -33,5 +33,3 @@ fn main() {
     let resultado = maior(&s1, &s2);
     println!("Maior: {}", resultado);
 }
-
-
